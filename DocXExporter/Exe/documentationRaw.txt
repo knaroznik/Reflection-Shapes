@@ -1,0 +1,7 @@
+-PARAGRAPH- IShape
+   Rectangle
+   Shape
+   Square
+   Triangle
+-PARAGRAPH- AreaBehaviour
+-PARAGRAPH- ConnectionBehaviour
