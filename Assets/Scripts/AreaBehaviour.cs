@@ -6,9 +6,10 @@ using System.Reflection;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class AreaBehaviour : MonoBehaviour
+public class AreaBehaviour : RootBehaviour
 {
 
+    [NotNull]
     public GameObject vertexPrefab;
     public GameObject connectionPrefab;
     public Text sceneText;

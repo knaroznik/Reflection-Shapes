@@ -327,11 +327,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9df4f828bacd76344bc728e3da73be81, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vertexPrefab: {fileID: 1083688363669818401, guid: ef83771b4eee1394ab61b299b1b5f0f7,
-    type: 3}
+  vertexPrefab: {fileID: 0}
   connectionPrefab: {fileID: 447928064720189413, guid: 381fb3904ec52d64e8457eab255257d2,
     type: 3}
   sceneText: {fileID: 2145447425}
+  connections: []
 --- !u!4 &548151932
 Transform:
   m_ObjectHideFlags: 0
